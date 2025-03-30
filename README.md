@@ -14,6 +14,10 @@ A modern and user-friendly password generator application built with Streamlit.
 - Copy to clipboard functionality
 - Modern and responsive UI
 
+## Live Demo
+
+You can try the application online at: [Password Generator](https://saz-password-generator.streamlit.app/)
+
 ## Installation
 
 1. Clone this repository
