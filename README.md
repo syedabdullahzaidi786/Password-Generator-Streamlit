@@ -28,6 +28,7 @@ Run the application using:
 ```bash
 streamlit run app.py
 ```
+OR: 
 ```bash
 python -m streamlit run app.py
 ```
